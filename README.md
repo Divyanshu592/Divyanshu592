@@ -69,7 +69,7 @@
 [visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=Divyanshu592
 [github-stars-shield]: https://img.shields.io/github/stars/Divyanshu592?style=social
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=Divyanshu592&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/Divyanshu592?theme=dark&font=Roboto&ext=heatmap
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/Divyanshu592/?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
 [leetcode-url]: https://leetcode.com/divyanshupandey3m/
 [gfg-url]: https://auth.geeksforgeeks.org/user/div_yanshu_01
