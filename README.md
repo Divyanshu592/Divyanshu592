@@ -71,7 +71,7 @@
 [github-stats]:https://githubreadmestats.vercel.app/apiusername=Divyanshu592&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/Divyanshu592?theme=dark&font=Roboto&ext=heatmap
 [gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
-[leetcode-url]: https://leetcode.com/divyanshupandey3m
+[leetcode-url]: https://leetcode.com/divyanshupandey3m/
 [gfg-url]: https://auth.geeksforgeeks.org/user/div_yanshu_01
 [github-followers-shield]: https://img.shields.io/github/followers/?style=social
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu592&theme=algolia
@@ -79,7 +79,7 @@
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=Divyanshu592&theme=algolia
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/divyanshupandey3m/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/divyanshupandey3m
+[leetcode-url]: https://leetcode.com/divyanshupandey3m/
 [gfg-url]:https://auth.geeksforgeeks.org/user/div_yanshu_01
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
