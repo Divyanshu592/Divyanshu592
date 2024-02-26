@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Hemant gaur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Divyanshu Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
 <hr/>
 
 ## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>FRONT END ,MACHINE LEARNING</b> & ARTIFICAL INTELLIGENCE<br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects<br>⚡ Fun fact Call me HG-IMMORTALS<br>
+✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>FRONT END ,MACHINE LEARNING</b> & ARTIFICAL INTELLIGENCE<br><!-- 🔭 Working on a <b>Subscription based eCommerce Website</b><br> -->👯 Looking forward to collaborate on projects<br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
@@ -51,39 +51,36 @@
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
-[![Hackerrank][hackerrank-shield]][hackerrank-url]
 [![GFG][gfg-shield]][gfg-url]
 <br>
 
 <div align="center">
 
-  <a href="https://github.com/hg-immortals">![Footer quote][quote-url]</a>
+  <a href="https://github.com/Divyanshu592">![Footer quote][quote-url]</a>
 
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HG-IMMORTALS/count.svg" />
+  <img src="https://profile-counter.glitch.me/Divyanshu592/count.svg" />
 </p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=HG-IMMORTALS
-[github-stars-shield]: https://img.shields.io/github/stars/HG-IMMORTALS?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=HG-IMMORTALS&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/HG-IMMORTALS?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=hamentgaur123
-[leetcode-url]: https://leetcode.com/HG-IMMORTALS/
-[gfg-url]: https://auth.geeksforgeeks.org/user/hamentgaur123
-[github-followers-shield]: https://img.shields.io/github/followers/HG-IMMORTALS?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=HG-IMMORTALS&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=HG-IMMORTALS&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=HG-IMMORTALS&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/HG-IMMORTALS/solved?color=orange&logo=leetcode
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=Divyanshu592
+[github-stars-shield]: https://img.shields.io/github/stars/Divyanshu592?style=social
+[github-stats]:https://githubreadmestats.vercel.app/apiusername=Divyanshu592&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/Divyanshu592?theme=dark&font=Roboto&ext=heatmap
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=div_yanshu_01
+[leetcode-url]: https://leetcode.com/divyanshupandey3m/
+[gfg-url]: https://auth.geeksforgeeks.org/user/div_yanshu_01
+[github-followers-shield]: https://img.shields.io/github/followers/?style=social
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu592&theme=algolia
+[github-streak]: https://streak-stats.demolab.com?user=Divyanshu592&theme=algolia
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=Divyanshu592&theme=algolia
+[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/divyanshupandey3m/solved?color=orange&logo=leetcode
 [gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/HG-IMMORTALS
-[gfg-url]:https://auth.geeksforgeeks.org/user/hamentgaur123
-[hackerrank-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=hackerrank
-[hackerrank-url]: https://www.hackerrank.com/HG_IMMORTALS
+[leetcode-url]: https://leetcode.com/divyanshupandey3m
+[gfg-url]:https://auth.geeksforgeeks.org/user/div_yanshu_01
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
@@ -92,11 +89,11 @@
 [gmail-shield]: https://img.shields.io/badge/-Hemant%20Gaur-grey?style=flat&logo=gmail
 [gmail-url]: mailto:hemantgaur2846@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-Hemant%20Gaur-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/hg-immortals/
+[linkedin-url]: https://www.linkedin.com/in/divyanshu-pandey-212079235/
 [github-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=github
 [linkedin-shield]: https://img.shields.io/badge/-Hemant%20Gaur-blue?style=flat&logo=linkedin&logoColor=white
 [github-shield]: https://img.shields.io/badge/-Hemant%20Gaur-black?style=flat&logo=github
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
 [leetcode-shield]: https://img.shields.io/badge/-Hemant%20Gaur-grey?style=flat&logo=leetcode
 [gfg-shield]: https://img.shields.io/badge/-Hemant%20Gaur-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/HG-IMMORTALS
+[github-url]: https://github.com/Divyanshu592
