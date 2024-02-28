@@ -18,7 +18,9 @@
   <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu592)](https://github.com/Divyanshu592/github-readme-stats)</a>
 
 </div>
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Streak stats
+
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> Streak Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> 
 </div>
