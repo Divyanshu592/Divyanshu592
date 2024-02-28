@@ -37,6 +37,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
 <div align="center">
+
     
   <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
   
